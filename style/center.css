@@ -1,0 +1,35 @@
+/* CSS Document */
+body{margin:0px;padding:0px;}
+.t{background-image:url(../images/bg-2t.gif);backgroun-repeat:repeat-x;height:41px}
+.xe {background-image:url(../images/nav2-1.gif);background-repeat:no-repeat;width:70px;height:33px; font-weight:bold;line-height:33px;font-size:13px;text-align:center}
+.xe a{color:#FFFFFF;text-decoration:none}
+.xe a:hover{color:#FFFF00; text-decoration:underline}
+.wd {background-image:url(../images/nav2-2.gif);background-repeat:no-repeat;width:70px;height:33px; font-weight:bold;line-height:33px;font-size:13px;text-align:center}
+.wd a{color:#FFFF00;text-decoration:none}
+.wd a:hover{color:#FFFF00; text-decoration:underline}
+.wx {background-image:url(../images/nav2-4.gif);background-repeat:no-repeat;width:70px;height:33px; font-weight:bold;line-height:33px;font-size:13px;text-align:center}
+.wx a{color: #FFFFFF;text-decoration:none}
+.wx a:hover{color:#FFFF00; text-decoration:underline}
+.dd {background-image:url(../images/nav2-3.gif);background-repeat:no-repeat;width:55px;height:33px; font-weight:bold;line-height:33px;font-size:13px;text-align:center}
+.dd a{color: #FFFFFF;text-decoration:none;}
+.dd a:hover{color:#FFFF00; text-decoration:underline;}
+.dy{text-align:center;font-size:13px}
+.dy a{color:#FFFF00;text-decoration:none;}
+.dy a:hover{color:#FFFF00;text-decoration:underline;background-image:url(../images/shu.png);background-repeat:repeat;}
+.ys{font-size:13px;line-height:33px}
+.ys a{color:#FFFFFF;text-decoration:none}
+.ys a:hover{color:#FFFF00;text-decoration:underline;}
+.center{background-image:url(../images/bg.jpg);background-repeat:repeat;}
+.sp{width:200px;height:26px;color:#999999}
+.m{background-image:url(../images/bg_s.png);background-repeat:repeat-x}
+.n{color:#FFCC66;font-size:13px;text-align:right}
+.s{ background-image:url(../images/left-t.gif);background-repeat:no-repeat; vertical-align:top;padding-left:6px;width:195px;padding-top:10px;}
+.ml{color:#FFFFFF;font-weight:bold;font-size:13px}
+.ml p a{font-size:12px;color:#CCCCCC;text-decoration:none; padding-left:10px;}
+.ml p a:hover{color:red;text-decoration:underline}
+.bl a{font-weight:bold;color:#38720b;font-size:13px;padding-left:10px;text-decoration:none}
+.o{ background-image:url(../images/longtt.gif);background-repeat:no-repeat;width:960px;height:31px;color:#FFFFFF;padding-left:10px;font-weight:bold;font-size:12px;line-height:10px}
+.zx1{ background-image:url(../images/longtt.gif);background-repeat:no-repeat;width:960px;height:31px;color:#FFFFFF;padding-left:10px;font-weight:bold;font-size:12px;line-height:10px}
+.my{color:#FF0000; }
+.my p a{color:#999999; text-decoration:none}
+.my p a:hover{color:red; text-decoration:underline}

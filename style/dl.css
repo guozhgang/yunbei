@@ -1,0 +1,11 @@
+/* CSS Document */
+body{ background-image:url(../images/bg.jpg); background-repeat:repeat; margin:0px; padding:0px;}
+
+.tr1{ background-image:url(../images/bg-t.gif); background-repeat:repeat-x; }
+.tr1 a { text-decoration:none; color:#FF0000; font-size:14px;}
+.login{ width:609px; height:430px; background:url(../images/logindil.gif) no-repeat;margin-top:30px;margin-left:10px;}
+.login ul{ font-size:14px; font-family:"\5FAE\8F6F\96C5\9ED1",Arial,tahoma,"\5B8B\4F53"; list-style-type:none}
+.login ul li{ padding:5px;}
+.register{width:315px; height:430px;  background:url(../images/logindir.gif) no-repeat;margin-top:30px;margin-left:20px;}
+.register ul{ font-size:14px; font-family:"\5FAE\8F6F\96C5\9ED1",Arial,tahoma,"\5B8B\4F53"; list-style-type:none}
+.register ul li{ padding:5px;}

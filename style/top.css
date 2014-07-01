@@ -1,0 +1,27 @@
+/* CSS Document */
+body{font:12px/160% Arial,tahoma,"\5b8b\4f53"}
+body{margin:0px;padding:0px;}
+.f{line-height:40px; background-image:url(../images/bg-x.gif); background-repeat:repeat-x}
+.f a{color:#999999; text-decoration:none;  }
+.f a:hover{ color:#FF0000; text-decoration:underline}
+
+.tr2{ background-image:url(../images/bg-t.gif); background-repeat:repeat-x; height:67px;} 
+.tr2 td{padding-left:10px}
+
+.sy{width:59px;height:29px; background-image:url(../images/menu-1.gif); background-repeat:no-repeat; text-align:center; line-height:29px; font-weight:bold;ss}
+.sy a { color:#FFFFFF; text-decoration:none}
+.sy a:hover{ color:#FFFF00; text-decoration:none}
+.zx{width:109px;height:29px; background-image:url(../images/menu-2.gif); background-repeat:no-repeat;text-align:center;line-height:29px; font-weight:bold}
+.zx a { color:#FFFFFF; text-decoration:none}
+.zx a:hover{ color:#FFFF00; text-decoration:none}
+.wj{width:88px;height:29px; background-image:url(../images/menu-3.gif); background-repeat:no-repeat; text-align:center; line-height:29px;font-weight:bold }
+.wj a { color:#FF0000; text-decoration:none}
+.wj a:hover{ color:#FF0000; text-decoration:underline}
+.mz{width:87px;height:29px; background-image:url(../images/menu-4.gif); background-repeat:no-repeat;text-align:center;line-height:29px;font-weight:bold}
+.mz a{ color:#339999; text-decoration:none}
+.mz a:hover{ color:red; text-decoration:underline}
+.bb{width:64px; height:29px; background-image:url(../images/menu-5.gif); background-repeat:no-repeat;text-align:center;line-height:29px; font-weight:bold}
+.bb a{ color:#339999; text-decoration:none}
+.bb a:hover{ color:red; text-decoration:underline}
+
+

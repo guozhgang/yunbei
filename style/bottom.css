@@ -1,0 +1,9 @@
+/* CSS Document */
+body{ margin:0; padding:0;background-image:url(../images/bg.jpg); background-repeat:repeat}
+
+p{font-size:13px;color:#666666;padding-top:0px}
+.db{ background-image:url(../images/longtt.gif); background-repeat:no-repeat;text-align:center;height-line:10px;width:960px;padding-top:5px;font-size:14px}
+
+.db a{color:#FFFFFF; text-decoration:none; font-size:13px; font-weight:bold; line-height:22px;}
+.db a:hover{color:#FFFF00; text-decoration:underline}
+.d{padding-top:20px}
